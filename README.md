@@ -1,4 +1,4 @@
-# PDF Manipulator  
+# PDF Utility
 Contains a script to merge PDF's and a script to watermark a PDF.
 
 ## [PDF Watermarker](https://github.com/Chuset21/PDF-Merger/blob/main/pdf_watermarker.py)
