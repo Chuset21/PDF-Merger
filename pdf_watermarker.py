@@ -2,10 +2,6 @@ import PyPDF2
 import sys
 
 
-class S:
-    SEPARATOR = '\\' if sys.platform == 'win32' else '/'
-
-
 def main():
     template_file = sys.argv[1]
 
